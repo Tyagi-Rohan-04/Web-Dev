@@ -14,4 +14,6 @@ function fizzBuzz(){
     console.log(output);
 }
 
-fizzBuzz();
+while(count <= 100){
+    fizzBuzz();
+}
