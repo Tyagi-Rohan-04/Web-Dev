@@ -1,0 +1,35 @@
+pwd: Print working directory
+ls: List directory contents (ls -l, ls -a, ls -lh)
+cd: Change directory
+touch: Create empty file or update timestamp
+cat: View file content
+nano/vi/vim: Edit files
+mkdir: Create directories (mkdir -p for nested)
+rm: Delete files/directories (-r, -f options)
+cp: Copy files/directories
+mv: Move or rename files
+head: Show first lines of a file
+tail: Show last lines of a file (tail -f for live logs)
+grep: Search text patterns (-i, -r options)
+find: Search for files/directories
+chmod: Change file permissions (chmod 755, u+x)
+chown: Change file ownership
+ps: Show running processes (ps aux)
+top/htop: Monitor system processes live
+kill: Terminate processes (kill -9)
+df: Disk space usage
+du: Directory size
+free: RAM usage
+ping: Test network connectivity
+ip: View network interfaces
+ss/netstat: Show open ports and connections
+curl: Make HTTP requests
+tar: Archive/extract files
+zip/unzip: Compress and extract zip files
+whoami: Show current user
+who: Show logged-in users
+sudo: Run command as superuser
+echo: Print text
+history: Show command history
+clear: Clear terminal
+Wildcards: * and ? for pattern matching
